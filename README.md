@@ -44,7 +44,8 @@ The dashboard provides key business insights through revenue tracking and custom
 
 ##  Dashboard Preview
 
-(Add your screenshot here)
+<img width="1096" height="582" alt="dashboard png" src="https://github.com/user-attachments/assets/eef0644d-10df-4b7c-bcb0-a5c280c74976" />
+
 
 ---
 
